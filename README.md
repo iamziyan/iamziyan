@@ -24,20 +24,27 @@ I enjoy exploring transaction management, record-keeping, process reliability, a
 
 ### 💻 Languages & Tools
 <p align="center">
-  <!-- Languages & basics -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <!-- You can replace postgresql logo with mysql if you prefer -->
-  <!-- If you use Python or JS console/file handling a lot, you can add: -->
-  <!-- <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> -->
-  <!-- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> -->
+  <a href="https://github.com/iamziyan/iamziyan/blob/main/html-hello.html">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  </a>
+  <a href="https://github.com/iamziyan/iamziyan/blob/main/css-hello.html">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  </a>
+  <a href="https://github.com/iamziyan/iamziyan/blob/main/js-hello.html">  <!-- ← New link for JS demo -->
+    <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  </a>
+  <a href="https://github.com/iamziyan/iamziyan/blob/main/sql-hello.md">
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Console%20Programming-000000?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Console" />
-  <img src="https://img.shields.io/badge/File%20Handling-005571?style=for-the-badge&logoColor=white" alt="File Handling" />
-  <!-- You can customize or add icons for file handling if you find better ones -->
+  <a href="https://github.com/iamziyan/iamziyan/blob/main/console-hello.md">
+    <img src="https://img.shields.io/badge/Console%20Programming-000000?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Console" />
+  </a>
+  <a href="https://github.com/iamziyan/iamziyan/blob/main/file-handling-hello.md">
+    <img src="https://img.shields.io/badge/File%20Handling-005571?style=for-the-badge&logoColor=white" alt="File Handling" />
+  </a>
 </p>
 
 ### 📌 Featured Project

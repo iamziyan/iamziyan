@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hello from JavaScript</title>
+    <style>
+        body { 
+            font-family: Arial, sans-serif; 
+            text-align: center; 
+            background: #f7df1e11;  /* light JS yellow */
+            padding: 60px; 
+        }
+        h1 { color: #000; }
+        button { 
+            padding: 12px 24px; 
+            font-size: 18px; 
+            background: #f7df1e; 
+            border: none; 
+            border-radius: 6px; 
+            cursor: pointer; 
+        }
+        button:hover { background: #e6c900; }
+        #output { margin-top: 30px; font-size: 24px; color: #333; }
+    </style>
+</head>
+<body>
+    <h1>Hello World from JavaScript! 🚀</h1>
+    <p>Click the button below to see some JS magic.</p>
+    
+    <button onclick="sayHello()">Say Hello!</button>
+    <div id="output"></div>
+
+    <script>
+        function sayHello() {
+            const messages = [
+                "Hello World! 🌍",
+                "Hi from Ziyanali! 👋",
+                "JavaScript is awesome! 💛",
+                "Keep learning & building! 🔥"
+            ];
+            const randomMsg = messages[Math.floor(Math.random() * messages.length)];
+            document.getElementById("output").innerHTML = `<strong>${randomMsg}</strong>`;
+        }
+    </script>
+
+    <p style="margin-top: 60px;"><a href="/">← Back to profile</a></p>
+</body>
+</html>
