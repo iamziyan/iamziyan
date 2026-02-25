@@ -33,13 +33,13 @@ I enjoy exploring transaction management, record-keeping, process reliability, a
   <a href="https://iamziyan.github.io/iamziyan/js-hello.html">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   </a>
-  <a href="https://github.com/iamziyan/iamziyan/blob/main/sql-hello.md">
+  <a href="https://github.com/iamziyan/iamziyan/blob/main/sql-hello.sql">
     <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/iamziyan/iamziyan/blob/main/console-hello.md">
+  <a href="https://github.com/iamziyan/iamziyan/blob/main/connsole-hello.md">
     <img src="https://img.shields.io/badge/Console%20Programming-000000?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Console" />
   </a>
   <a href="https://github.com/iamziyan/iamziyan/blob/main/file-handling-hello.md">
