@@ -24,25 +24,25 @@ I enjoy exploring transaction management, record-keeping, process reliability, a
 
 ### 💻 Languages & Tools
 <p align="center">
-  <a href="https://github.com/iamziyan/iamziyan/blob/main/html-hello.html">
+  <a href="https://raw.githack.com/iamziyan/iamziyan/main/html-hello.html">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   </a>
-  <a href="https://github.com/iamziyan/iamziyan/blob/main/css-hello.html">
+  <a href="https://raw.githack.com/iamziyan/iamziyan/main/css-hello.html">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   </a>
-  <a href="https://github.com/iamziyan/iamziyan/blob/main/js-hello.html">  <!-- ← New link for JS demo -->
-    <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <a href="https://raw.githack.com/iamziyan/iamziyan/main/js-hello.html">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   </a>
-  <a href="https://github.com/iamziyan/iamziyan/blob/main/sql-hello.md">
+  <a href="https://github.com/iamziyan/iamziyan/blob/main/sql-hello.md">  <!-- kept as GitHub blob for nice markdown rendering -->
     <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/iamziyan/iamziyan/blob/main/console-hello.md">
+  <a href="https://github.com/iamziyan/iamziyan/blob/main/console-hello.md">  <!-- same for console -->
     <img src="https://img.shields.io/badge/Console%20Programming-000000?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Console" />
   </a>
-  <a href="https://github.com/iamziyan/iamziyan/blob/main/file-handling-hello.md">
+  <a href="https://github.com/iamziyan/iamziyan/blob/main/file-handling-hello.md">  <!-- same for file handling -->
     <img src="https://img.shields.io/badge/File%20Handling-005571?style=for-the-badge&logoColor=white" alt="File Handling" />
   </a>
 </p>
