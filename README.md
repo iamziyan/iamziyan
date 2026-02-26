@@ -83,9 +83,9 @@ Console-based application to manage players, teams, fixtures, and results with s
   <a href="https://www.linkedin.com/in/ziyanalisaiyed/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <!-- Add more if you have: Twitter/X, Portfolio, etc. -->
-  <!-- Example: -->
-  <!-- <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a> -->
+  <a href="https://twitter.com/_iamziyan">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
 </p>
 
 <br>
