@@ -1,7 +1,7 @@
 <h1 align="center">
     Hi
     <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
-    I'm Ziyanali Saiyed 👋
+    I'm Ziyanali Saiyed 
 </h1>
 
 <p align="center">
