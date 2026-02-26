@@ -81,8 +81,8 @@ Console-based application to manage players, teams, fixtures, and results with s
 ### 🌐 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/ziyanalisaiyed/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  <img src="https://img.shields.io/badge/In-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" />
+</a>
   <a href="https://twitter.com/_iamziyan">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
