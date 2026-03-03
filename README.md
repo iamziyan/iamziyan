@@ -78,11 +78,14 @@ Console-based application to manage players, teams, fixtures, and results with s
   </p>
 </details>
 
-### 🌐 Connect With Me
+### 🌐 Portfolio & Profiles
 <p align="center">
+  <a href="https://iamziyan.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Portfolio" />
+  </a>
   <a href="https://www.linkedin.com/in/ziyanalisaiyed/">
-  <img src="https://img.shields.io/badge/In-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" />
-</a>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
   <a href="https://twitter.com/_iamziyan">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
