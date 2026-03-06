@@ -51,7 +51,7 @@ I enjoy exploring transaction management, record-keeping, process reliability, a
 ### 🏆 Sports Tournament Management System
 Console-based application to manage players, teams, fixtures, and results with structured file-based storage.
 
-👉 [https://github.com/iamziyan/sports-tournament-management-system](https://github.com/iamziyan/sports-tournament-management-system)
+👉 [https://github.com/iamziyan/SportDeck](https://github.com/iamziyan/SportDeck)
 
 ### 📈 Currently Growing In
 - Database design & normalization  
