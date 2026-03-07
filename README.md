@@ -81,7 +81,7 @@ Console-based application to manage players, teams, fixtures, and results with s
 ### 🌐 Portfolio & Profiles
 <p align="center">
   <a href="https://iamziyan.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-GitHub-181717?style=for-the-badge&logo" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/ziyanalisaiyed/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
