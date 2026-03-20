@@ -47,11 +47,17 @@ I enjoy exploring transaction management, record-keeping, process reliability, a
   </a>
 </p> 
 
-### 📌 Featured Project
-### 🏆 Sports Tournament Management System
+### 📌 Featured Projects
+
+### 🏆 SportDeck - Sports Tournament Management System 
 Console-based application to manage players, teams, fixtures, and results with structured file-based storage.
 
 👉 [https://github.com/iamziyan/SportDeck](https://github.com/iamziyan/SportDeck)
+
+### 🏢 Nestify - Hostel Management System
+A complete web-based application built with **PHP** & **MySQL** featuring role-based access for Admins and Students, room allocation, fee management, and complaint tracking.
+
+👉 [https://github.com/iamziyan/Nestify](https://github.com/iamziyan/Nestify)
 
 ### 📈 Currently Growing In
 - Database design & normalization  
