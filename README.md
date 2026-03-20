@@ -87,7 +87,7 @@ A complete web-based application built with **PHP** & **MySQL** featuring role-b
 ### 🌐 Portfolio & Profiles
 <p align="center">
   <a href="https://iamziyan.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/ziyanalisaiyed/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
