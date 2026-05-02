@@ -13,7 +13,7 @@ Building reliable systems with focus on backend logic, databases, and financial 
 
 ### Projects
 
-- **[Nestify](https://github.com/iamziyan/Nestify)** — Hostel Management System (PHP + MySQL)
+- **[Nestify](https://github.com/iamziyan/Nestify)** — Hostel Management System 
 - **[SportDeck](https://github.com/iamziyan/SportDeck)** — Tournament Management System
 
 ### Connect
